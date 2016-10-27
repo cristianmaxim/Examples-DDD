@@ -1,0 +1,10 @@
+*.dbmdl
+*.refactorlog
+*.dll
+*.pdb
+*.user
+*.suo
+*_ReSharper*
+obj/
+bin/
+packages/

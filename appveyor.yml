@@ -1,0 +1,11 @@
+build:
+  project: DDD.Examples.sln 
+
+services:
+  - mssql2014
+
+before_build:
+  - nuget restore
+
+configuration: Debug
+
